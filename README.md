@@ -1,6 +1,7 @@
-## Welcome to the jungle
+## Welcome to the Jungle
 
-You can use the [editor on GitHub](https://github.com/smokify/boom/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+    ॐ त्र्यं॑बकं यजामहे सु॒गन्धिं॑ पुष्टि॒वर्ध॑नम् । 
+    उ॒र्वा॒रु॒कमि॑व॒ बन्ध॑नान् मृ॒त्योर् मु॑क्षीय॒ माऽमृता॑त् ।
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
